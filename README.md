@@ -36,6 +36,12 @@ nurses tried to help the patient be positive, by talking to them, by encouraging
 
 Quanrentine
 
+Video introduction to corona virus by paperclip in Chinese
+https://www.bilibili.com/video/av86216616/
+
+English
+https://www.youtube.com/watch?v=UubQNkK0wy0
+
 
 
 
