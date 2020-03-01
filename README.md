@@ -37,20 +37,18 @@ nurses tried to help the patient be positive, by talking to them, by encouraging
 Quanrantine
 
 
-Videos 
-Chinese
-Introduction to corona virus by paperclip in Chinese
-https://www.bilibili.com/video/av86216616/
+**Videos**     
+**Chinese**    
+Introduction to corona virus by paperclip in Chinese  
+https://www.bilibili.com/video/av86216616/  
 
-Conspiracy theory (from Taiwan)
-http://t.cn/A67GD09G
-source: https://www.weibo.com/tv/v/4477007225094162?fid=1034:4477007225094162 (无心简影)
-
-
-English
-https://www.youtube.com/watch?v=UubQNkK0wy0
+Conspiracy theory (from Taiwan)  
+http://t.cn/A67GD09G  
+source: https://www.weibo.com/tv/v/4477007225094162?fid=1034:4477007225094162 (无心简影)  
 
 
+**English**  
+https://www.youtube.com/watch?v=UubQNkK0wy0  
 
 
 
