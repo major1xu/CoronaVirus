@@ -34,10 +34,18 @@ of Wuhan hospital, is to have an uplifting spritit and listen to the doctor (goo
 So that did the doctor say: basically they told the patient to fight while be positive. The reporotory disease is usually painful, from my personal experience. The doctors and 
 nurses tried to help the patient be positive, by talking to them, by encouraging them to use the device properly, or to partiipate some group activies. 
 
-Quanrentine
+Quanrantine
 
-Video introduction to corona virus by paperclip in Chinese
+
+Videos 
+Chinese
+Introduction to corona virus by paperclip in Chinese
 https://www.bilibili.com/video/av86216616/
+
+Conspiracy theory (from Taiwan)
+http://t.cn/A67GD09G
+source: https://www.weibo.com/tv/v/4477007225094162?fid=1034:4477007225094162 (无心简影)
+
 
 English
 https://www.youtube.com/watch?v=UubQNkK0wy0
@@ -51,4 +59,4 @@ https://www.youtube.com/watch?v=UubQNkK0wy0
 
 
 
-  
+
