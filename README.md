@@ -43,6 +43,9 @@ https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e
 And the website supports the map is here  
 https://systems.jhu.edu/research/public-health/ncov/  
 
+Another good visualization of world wide infection  
+https://www.worldometers.info/coronavirus/?fbclid=IwAR2rVxjcDWpcP01QKxQ2-uDGZJkZ2T_mUvC6ixBTNcYrOx3BQTUkIQgPP_Q
+
 Also wiki China stats (in Chinese) 
 https://zh.wikipedia.org/wiki/2019%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E7%97%85%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E7%97%85%E4%BE%8B  
 
@@ -61,7 +64,8 @@ source: https://www.weibo.com/tv/v/4477007225094162?fid=1034:4477007225094162 (æ
 https://www.youtube.com/watch?v=UubQNkK0wy0  
 
 
-
+About me  
+Some more background: please note I am not a medical doctor, but I am a trained engineer and believe in science. I believe people like Bill Gates are making a difference in the access to healthcare esp. vaccine in the developing countries (or poor countries). Born and raised in China in 1970s, the economy of China is a bit like Cuba at the time, but we all got free vaccine from the village doctor(s). All of them are my mom's friends (my mom was like the leading lady in the village, someday I can explain more). The doctors will chase me to give me the vaccine shots before I attended the elementary school. I stopped running after I started the elementary school, as I was the class president and had to lead by example (no tears or cry)...
 
 
 
