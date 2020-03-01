@@ -36,7 +36,17 @@ nurses tried to help the patient be positive, by talking to them, by encouraging
 
 Quanrantine
 
+**Stats**  
+John Hopkins keeps a live map  
+https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6  
 
+And the website supports the map is here  
+https://systems.jhu.edu/research/public-health/ncov/  
+
+Also wiki China stats (in Chinese) 
+https://zh.wikipedia.org/wiki/2019%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E7%97%85%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E7%97%85%E4%BE%8B  
+
+There is also a very good visual that's available on Tencents News (needs WeChat or Tencents News app)
 **Videos**     
 **Chinese**    
 Introduction to corona virus by paperclip in Chinese  
