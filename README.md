@@ -20,14 +20,14 @@ Avoid crowd, for example, concert, games, marathon races. Avoid close contact wi
 
 Avoid places that have a lot of people using the central air, a good example is the cruise ship.
 
-Deadth rate
+**Deadth rate**
 The current overall death rate is about 2%, which is higher than the so called 0.1% deadth rate in the US. Both numbers can be skcrewed though. The 2% rate needs to be re-examined
 because the initial death rate in Wuhan / Hubei was high due to overwhelming of the healthcare facilities. So a lot people probably would have survived if they were in Zhejiang
 province (my hometown) between Jan 20 to Feb 10. The healthcare facilities and people issues are solved by the help from all over the country. Also it takes sometime for the 
 doctor to come up with ways to treat or allieviate the symptoms. 
 
 
-Cure
+**Cure**
 There is no known medicine. There is some experiment medicines, such as the HIV medicine or the Gilead new medicine. The more important part, seems to me, from watching a video
 of Wuhan hospital, is to have an uplifting spritit and listen to the doctor (good doctor :-)
 
@@ -40,6 +40,8 @@ https://www.nejm.org/doi/full/10.1056/NEJMp2003762
 
 https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
 (note the flatten curve, which is very much relevant as we have already seen what happened to Wuhan/Hubei, and Italy)
+
+https://stayinghome.club
 
 **Stats**  
 John Hopkins keeps a live map  
