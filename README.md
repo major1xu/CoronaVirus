@@ -54,8 +54,10 @@ https://www.worldometers.info/coronavirus/?fbclid=IwAR2rVxjcDWpcP01QKxQ2-uDGZJkZ
 Also wiki China stats (in Chinese) 
 https://zh.wikipedia.org/wiki/2019%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E7%97%85%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E7%97%85%E4%BE%8B  
 
-**US**
-nytimes:   
+**US**  
+https://coronavirus.1point3acres.com/en?fbclid=IwAR3oigSOOU5NosJNR_Z3YmOyBbQnFE7zR2dlsWsSzJGa5lq50DKWslWt1Xw  
+
+nytimes:     
 https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
 
 **Italy**
