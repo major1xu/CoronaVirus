@@ -34,10 +34,12 @@ of Wuhan hospital, is to have an uplifting spritit and listen to the doctor (goo
 So that did the doctor say: basically they told the patient to fight while be positive. The reporotory disease is usually painful, from my personal experience. The doctors and 
 nurses tried to help the patient be positive, by talking to them, by encouraging them to use the device properly, or to partiipate some group activies. 
 
-Bill Gates article  
-Responding to Covid-19 — A Once-in-a-Century Pandemic?  
+**Article**  
+Responding to Covid-19 — A Once-in-a-Century Pandemic? (Bill Gates)
 https://www.nejm.org/doi/full/10.1056/NEJMp2003762
 
+https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
+(note the flatten curve, which is very much relevant as we have already seen what happened to Wuhan/Hubei, and Italy)
 
 **Stats**  
 John Hopkins keeps a live map  
@@ -56,6 +58,9 @@ https://zh.wikipedia.org/wiki/2019%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E7%97%85%
 nytimes:   
 https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
 
+**Italy**
+https://www.theatlantic.com/international/archive/2020/03/italy-coronavirus-covid19-west-europe-future/607660/
+
 There is also a very good visual that's available on Tencents News (needs WeChat or Tencents News app)   
 
 **Videos**     
@@ -65,10 +70,15 @@ https://www.bilibili.com/video/av86216616/
 
 Conspiracy theory (from Taiwan)  
 http://t.cn/A67GD09G  
-source: https://www.weibo.com/tv/v/4477007225094162?fid=1034:4477007225094162 (无心简影)  
+source: 
+https://www.weibo.com/tv/v/4477007225094162?fid=1034:4477007225094162 (无心简影)  
 
 **English**  
 https://www.youtube.com/watch?v=UubQNkK0wy0  
+
+https://www.pbs.org/newshour/show/with-the-coronavirus-pay-attention-to-the-basics
+
+I am also aware of a Stanford video (I will put up the link if I find them, it's a zoom meeting video)
 
 
 About me  
