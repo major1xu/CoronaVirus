@@ -59,11 +59,17 @@ https://zh.wikipedia.org/wiki/2019%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E7%97%85%
 **US**  
 https://coronavirus.1point3acres.com/en?fbclid=IwAR3oigSOOU5NosJNR_Z3YmOyBbQnFE7zR2dlsWsSzJGa5lq50DKWslWt1Xw  
 
-nytimes:     
+(health center in the US, I think those are community health center)
+https://www.findahealthcenter.hrsa.gov
+
+**nytimes** 
 https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
 
 **Italy**
 https://www.theatlantic.com/international/archive/2020/03/italy-coronavirus-covid19-west-europe-future/607660/
+
+**Spain**
+https://www.nytimes.com/2020/03/13/world/europe/spain-coronavirus-emergency.html (NYTimes)
 
 There is also a very good visual that's available on Tencents News (needs WeChat or Tencents News app)   
 
