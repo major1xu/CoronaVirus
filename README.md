@@ -59,6 +59,8 @@ https://zh.wikipedia.org/wiki/2019%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E7%97%85%
 **US**  
 https://coronavirus.1point3acres.com/en?fbclid=IwAR3oigSOOU5NosJNR_Z3YmOyBbQnFE7zR2dlsWsSzJGa5lq50DKWslWt1Xw  
 
+https://www.coronainusa.com/?from=timeline&isappinstalled=0 
+
 (health center in the US, I think those are community health center)
 https://www.findahealthcenter.hrsa.gov
 
