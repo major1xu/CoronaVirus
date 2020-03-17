@@ -64,6 +64,18 @@ https://www.coronainusa.com/?from=timeline&isappinstalled=0
 (health center in the US, I think those are community health center)
 https://www.findahealthcenter.hrsa.gov
 
+**The Covid Tracking Project**  
+https://twitter.com/COVID19Tracking/status/1239657352673906688  
+
+https://covidtracking.com/data/
+
+also
+**Covid 2019 Tests**  
+https://twitter.com/COVID2019tests
+
+(I was going to read up on the various tests, and to understand the shortage). I do understand in China a quick CT scan is readily available to confirm (CT scan is less accessible in the US, due to various reasons). See below.   
+https://twitter.com/MikeIsaac/status/1238604080571772928
+
 **nytimes** 
 https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
 
