@@ -18,4 +18,8 @@ https://www.gregtangmath.com/games
 school resources  
 
 **Spoede**  
-http://web.ladueschools.net/dashboards/spoede/ (note the clever SSO leads to some apps including MobyMax)
+http://web.ladueschools.net/dashboards/spoede/  
+(note the clever SSO leads to some apps including Brain Pop, Brain Pop Jr., MobyMax)
+
+Tumble Books
+https://www.tumblebooklibrary.com/Default.aspx?ReturnUrl=%2f (this one needs login)
