@@ -21,3 +21,6 @@ https://about.gitlab.com/company/culture/all-remote/
 
 **Hashicorp**  
 https://mobile.twitter.com/mitchellh/status/1237532491285577728
+
+**stlplace**  
+http://www.stlplace.com/2019/01/17/working-from-home-remoting-friendly-companies/
