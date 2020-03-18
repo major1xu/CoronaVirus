@@ -23,3 +23,10 @@ http://web.ladueschools.net/dashboards/spoede/
 
 Tumble Books
 https://www.tumblebooklibrary.com/Default.aspx?ReturnUrl=%2f (this one needs login)
+
+**Two math / algorithm problems**  
+1. I rememeber this problem as it was the middle school entrance exam when I graduating from 5th grade in Zhenhai County, Zhejiang Province. This is the last problem on the Math test and I believe very few kids solved it: I did not solved it during the exam either. Here it goes...
+It takes 1 hour from Peter to walk from point A to point B; it takes Mike 2 hours to walk from point B to A. If they start at the same time, Peter from point A walking toward point B, Mike started at point B walking toward A. How long will it take before they meet (assume point A to B is a straight line).
+
+2. I rememeber this problem as it was the key algorithm (or gotcha) problem when I was interview for my first programmer job. It seems like a widely used problem. Here it goes... 
+There are 8 balls, one is heavier than the rest 7, and there is a scale. Try to use as fewer attempts possible to find the "heavier" ball. This ball can be expanded to something like this: if one has 3 chances, how many (as many as possible) balls can he / she have to find out the lone "heavier" ball?
