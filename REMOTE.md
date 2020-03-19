@@ -24,3 +24,6 @@ https://mobile.twitter.com/mitchellh/status/1237532491285577728
 
 **stlplace**  
 http://www.stlplace.com/2019/01/17/working-from-home-remoting-friendly-companies/
+
+**Self Improvement**  
+https://www.inc.com/marcel-schwantes/warren-buffett-success-formula-self-improvement.html  
