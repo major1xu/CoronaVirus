@@ -104,8 +104,20 @@ https://www.pbs.org/newshour/show/with-the-coronavirus-pay-attention-to-the-basi
 
 I am also aware of a Stanford video (I will put up the link if I find them, it's a zoom meeting video)
 
+**more info around testing**  
+https://www.wired.com/story/everything-you-need-to-know-about-coronavirus-testing/  
 
-About me  
+https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/testing-in-us.html  
+
+https://www.sciencealert.com/how-does-the-coronavirus-test-work  
+
+https://www.npr.org/sections/health-shots/2020/03/16/816428320/coronavirus-u-s-enters-quarantine-life-as-many-schools-and-businesses-close
+
+https://ourworldindata.org/coronavirus-testing-source-data  
+
+https://www.washingtonpost.com/business/2020/03/16/cdc-who-coronavirus-tests/  
+
+**About me**    
 Some more background: please note I am not a medical doctor, but I am a trained engineer and believe in science. I believe people like Bill Gates are making a difference in the access to healthcare esp. vaccine in the developing countries (or poor countries). Born and raised in China in 1970s, the economy of China is a bit like Cuba at the time, but we all got free vaccine from the village doctor(s). All of them are my mom's friends (my mom was like the leading lady in the village, someday I can explain more). The doctors will chase me to give me the vaccine shots before I attended the elementary school. I stopped running after I started the elementary school, as I was the class president and had to lead by example (no tears or cry)...
 
 
