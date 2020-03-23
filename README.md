@@ -56,6 +56,9 @@ https://www.worldometers.info/coronavirus/?fbclid=IwAR2rVxjcDWpcP01QKxQ2-uDGZJkZ
 Also wiki China stats (in Chinese) 
 https://zh.wikipedia.org/wiki/2019%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E7%97%85%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E7%97%85%E4%BE%8B  
 
+**qq in Chinese, has both China and global data**  
+https://news.qq.com/zt2020/page/feiyan.htm#/global  
+
 **US**  
 https://coronavirus.1point3acres.com/en?fbclid=IwAR3oigSOOU5NosJNR_Z3YmOyBbQnFE7zR2dlsWsSzJGa5lq50DKWslWt1Xw  
 
@@ -96,6 +99,9 @@ Conspiracy theory (from Taiwan)
 http://t.cn/A67GD09G  
 source: 
 https://www.weibo.com/tv/v/4477007225094162?fid=1034:4477007225094162 (无心简影)  
+
+**A person keeled down for the medical team leaving Wuhan**  
+https://mp.weixin.qq.com/s/3_hFvTZZQpaaKyV_brMX-Q
 
 **English**  
 https://www.youtube.com/watch?v=UubQNkK0wy0  
