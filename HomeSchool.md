@@ -1,3 +1,13 @@
+**Continental Math League (CML)**  
+https://sites.google.com/a/mystma.org/mrs-nordberg/science
+
+**board games**  
+https://www.setgame.com/set/puzzle  
+
+**math in focus**  
+https://www.carmelschools.org/groups/52673/elementary_math/a_home
+(Scroll down a bit, go to textbook or workbook. They are html ebook)
+
 **Khan Academy**  
 https://www.khanacademy.org/  
 
