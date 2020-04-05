@@ -64,6 +64,9 @@ https://coronavirus.1point3acres.com/en?fbclid=IwAR3oigSOOU5NosJNR_Z3YmOyBbQnFE7
 
 https://www.coronainusa.com/?from=timeline&isappinstalled=0 
 
+**Act now. Save lives.**  
+https://covidactnow.org  
+
 (health center in the US, I think those are community health center)
 https://www.findahealthcenter.hrsa.gov
 
