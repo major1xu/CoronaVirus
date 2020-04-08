@@ -113,6 +113,9 @@ https://www.pbs.org/newshour/show/with-the-coronavirus-pay-attention-to-the-basi
 
 I am also aware of a Stanford video (I will put up the link if I find them, it's a zoom meeting video)
 
+**Interesting Read**  
+https://www.morozkoforge.com/post/the-curve-is-already-flat
+
 **more info around testing**  
 https://www.wired.com/story/everything-you-need-to-know-about-coronavirus-testing/  
 
