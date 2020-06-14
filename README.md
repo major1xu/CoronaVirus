@@ -64,6 +64,13 @@ https://coronavirus.1point3acres.com/en?fbclid=IwAR3oigSOOU5NosJNR_Z3YmOyBbQnFE7
 
 https://www.coronainusa.com/?from=timeline&isappinstalled=0 
 
+The Virus Will Win  
+Americans are pretending that the pandemic is over. It certainly is not.  
+JUNE 12, 2020  
+Yascha Mounk  
+https://www.theatlantic.com/ideas/archive/2020/06/virus-will-win/612946/  
+
+
 **Act now. Save lives.**  
 https://covidactnow.org  
 
