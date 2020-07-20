@@ -70,10 +70,16 @@ JUNE 12, 2020
 Yascha Mounk  
 https://www.theatlantic.com/ideas/archive/2020/06/virus-will-win/612946/  
 
-**Missouri-aka the Show Me State** 
+**Missouri-aka the Show Me State**  
 Dashboard  
 http://mophep.maps.arcgis.com/apps/MapSeries/index.html?appid=8e01a5d8d8bd4b4f85add006f9e14a9d
 
+**St. Louis County and Ladue Schools reopening**  
+Dr. Sam Page speeach  
+https://www.ksdk.com/article/news/health/coronavirus/st-louis-county-executive-schools-reopening-plans-virtual/63-83a843ec-0db9-4be3-94e9-7709f9931194  
+
+Ladue School Reopening  
+https://www.ladueschools.net/return-to-learn-reentry-plan/return-to-learn-superintendents-video/  
 
 **Act now. Save lives.**  
 https://covidactnow.org  
