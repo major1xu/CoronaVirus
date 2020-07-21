@@ -74,12 +74,7 @@ https://www.theatlantic.com/ideas/archive/2020/06/virus-will-win/612946/
 Dashboard  
 http://mophep.maps.arcgis.com/apps/MapSeries/index.html?appid=8e01a5d8d8bd4b4f85add006f9e14a9d
 
-**St. Louis County and Ladue Schools reopening**  
-Dr. Sam Page speeach  
-https://www.ksdk.com/article/news/health/coronavirus/st-louis-county-executive-schools-reopening-plans-virtual/63-83a843ec-0db9-4be3-94e9-7709f9931194  
 
-Ladue School Reopening  
-https://www.ladueschools.net/return-to-learn-reentry-plan/return-to-learn-superintendents-video/  
 
 **Act now. Save lives.**  
 https://covidactnow.org  
@@ -147,6 +142,22 @@ https://www.npr.org/sections/health-shots/2020/03/16/816428320/coronavirus-u-s-e
 https://ourworldindata.org/coronavirus-testing-source-data  
 
 https://www.washingtonpost.com/business/2020/03/16/cdc-who-coronavirus-tests/  
+
+**School Reopening**  
+
+**St. Louis County and Ladue Schools reopening**  
+Dr. Sam Page speeach  
+https://www.ksdk.com/article/news/health/coronavirus/st-louis-county-executive-schools-reopening-plans-virtual/63-83a843ec-0db9-4be3-94e9-7709f9931194  
+
+Ladue School Reopening  
+https://www.ladueschools.net/return-to-learn-reentry-plan/return-to-learn-superintendents-video/  
+
+HVAC  
+google "HVAC best practice for Covid"  
+outdoor ventilation  
+https://www.lexology.com/library/detail.aspx?g=f4024116-a128-4ff2-99d2-e7524721993d&fbclid=IwAR2G5mVdaY4s83smLLg9Zu4tL0znJgIs8RGqOnyKSiMEWdMXclqKCfl_DfE
+
+
 
 **About me**    
 Some more background: please note I am not a medical doctor, but I am a trained engineer and believe in science. I believe people like Bill Gates are making a difference in the access to healthcare esp. vaccine in the developing countries (or poor countries). Born and raised in China in 1970s, the economy of China is a bit like Cuba at the time, but we all got free vaccine from the village doctor(s). All of them are my mom's friends (my mom was like the leading lady in the village, someday I can explain more). The doctors will chase me to give me the vaccine shots before I attended the elementary school. I stopped running after I started the elementary school, as I was the class president and had to lead by example (no tears or cry)...
