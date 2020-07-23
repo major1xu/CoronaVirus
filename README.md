@@ -70,12 +70,6 @@ JUNE 12, 2020
 Yascha Mounk  
 https://www.theatlantic.com/ideas/archive/2020/06/virus-will-win/612946/  
 
-**Missouri-aka the Show Me State**  
-Dashboard  
-http://mophep.maps.arcgis.com/apps/MapSeries/index.html?appid=8e01a5d8d8bd4b4f85add006f9e14a9d
-
-MO hospital association  
-https://web.mhanet.com/coronavirus-disease.aspx  
 
 **Act now. Save lives.**  
 https://covidactnow.org  
