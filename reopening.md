@@ -6,6 +6,8 @@ MO hospital association
 https://web.mhanet.com/coronavirus-disease.aspx  
 
 **St Louis**  
+https://stlcorona.com/resources/covid-19-statistics1/  
+
 https://slu-opengis.github.io/covid_daily_viz/index.html  
 
 https://twitter.com/chrisprener  
