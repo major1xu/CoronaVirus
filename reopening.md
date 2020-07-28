@@ -6,14 +6,17 @@ MO hospital association
 https://web.mhanet.com/coronavirus-disease.aspx  
 
 **St Louis**  
+**St. Louis County**  
 https://stlcorona.com/resources/covid-19-statistics1/  
 
+**Chris Prener**   
 https://slu-opengis.github.io/covid_daily_viz/index.html  
 
 https://twitter.com/chrisprener  
 
 such as
 https://twitter.com/chrisprener/status/1286081335120011266  
+
 
 **School Reopening**  
 
