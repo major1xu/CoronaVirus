@@ -18,6 +18,8 @@ such as
 https://twitter.com/chrisprener/status/1286081335120011266  
 
 
+https://www.riverfronttimes.com/newsblog/2020/07/28/wentzville-ofallon-st-peters-and-more-labeled-as-coronavirus-hotspots?fbclid=IwAR1C233fkeUSNv_cXd51gOjeT7Y-vprEgHmom1mG-9xAMtKQZxCUIoQPLq8  
+
 **School Reopening**  
 
 **St. Louis County and Ladue Schools reopening**  
