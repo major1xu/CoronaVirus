@@ -22,6 +22,9 @@ https://www.ixl.com
 **prodigy**  
 https://www.prodigygame.com  
 
+**other education games**  
+https://www.adventureacademy.com/  
+
 **gregtang math**  
 https://www.gregtangmath.com/games  
 
