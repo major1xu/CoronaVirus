@@ -29,6 +29,9 @@ https://www.ksdk.com/article/news/health/coronavirus/st-louis-county-executive-s
 **Ladue School Reopening**  
 https://www.ladueschools.net/return-to-learn-reentry-plan/return-to-learn-superintendents-video/  
 
+**parent academy**  
+https://distancelearning.ladueschools.net/parent-academy/
+
 **HVAC**  
 google "HVAC best practice for Covid"  
 outdoor ventilation  
