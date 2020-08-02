@@ -32,6 +32,11 @@ https://www.ladueschools.net/return-to-learn-reentry-plan/return-to-learn-superi
 **parent academy**  
 https://distancelearning.ladueschools.net/parent-academy/
 
+**Outdoor Learning**  
+https://www.greenschoolyards.org/covid-learn-outside  
+
+I believe HVAC became popular in the US since 1950s (after WWII), and it became popular in China since 2000s. Here in St. Louis, except extreme cold weather in winter. 
+
 **HVAC**  
 google "HVAC best practice for Covid"  
 outdoor ventilation  
