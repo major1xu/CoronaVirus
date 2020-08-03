@@ -37,6 +37,8 @@ https://www.greenschoolyards.org/covid-learn-outside
 
 I believe HVAC became popular in the US since 1950s (after WWII), and it became popular in China since 2000s. Here in St. Louis, except extreme cold weather in winter. 
 
+https://www.pbs.org/newshour/show/a-california-collective-makes-the-case-for-outdoor-schooling  
+
 **HVAC**  
 google "HVAC best practice for Covid"  
 outdoor ventilation  
