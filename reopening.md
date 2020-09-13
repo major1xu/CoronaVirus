@@ -5,6 +5,9 @@ http://mophep.maps.arcgis.com/apps/MapSeries/index.html?appid=8e01a5d8d8bd4b4f85
 MO hospital association  
 https://web.mhanet.com/coronavirus-disease.aspx  
 
+9-12-2020 (missouri covid cases exceeded 100,000, note China with 1.4 billon population vs Missouri's 6 million, has about 90,000 cases)  
+https://www.stltoday.com/lifestyles/health-med-fit/coronavirus/a-milestone-for-missouri-as-the-number-of-covid-19-cases-tops-100-000/article_613db8ba-d466-59ba-bc36-91a02724702f.html  
+
 **St Louis**  
 **St. Louis County**  
 https://stlcorona.com/resources/covid-19-statistics1/  
