@@ -44,9 +44,13 @@ http://web.ladueschools.net/dashboards/spoede/
 Tumble Books
 https://www.tumblebooklibrary.com/Default.aspx?ReturnUrl=%2f (this one needs login)
 
-**Two math / algorithm problems**  
+**math / algorithm problems**  
 1. I rememeber this problem as it was the middle school entrance exam when I graduating from 5th grade in Zhenhai County, Zhejiang Province. This is the last problem on the Math test and I believe very few kids solved it: I did not solved it during the exam either. Here it goes...
 It takes 1 hour from Peter to walk from point A to point B; it takes Mike 2 hours to walk from point B to A. If they start at the same time, Peter from point A walking toward point B, Mike started at point B walking toward A. How long will it take before they meet (assume point A to B is a straight line).
 
 2. I rememeber this problem as it was the key algorithm (or gotcha) problem when I was interview for my first programmer job. It seems like a widely used problem. Here it goes... 
 There are 8 balls, one is heavier than the rest 7, and there is a scale balance that can tell which side is heavier. Try to use as fewer attempts possible to find the "heavier" ball. This ball can be expanded to something like this: if one has 3 chances, how many (as many as possible) balls can he / she have to find out the lone "heavier" ball?
+
+3. A geometry problem sent in by Dylan / LeeLee (https://megsss.org/elements-program), I will put a link of picture because a picture is worth 2,000 words in geometry  
+4. The riddle / lock problem Serenity saw from Ted (this is the link: https://www.ted.com/talks/lisa_winer_can_you_solve_the_locker_riddle/transcript?language=en#:~:text=He%20explains%3A%20Every%20relative%20is,%2C%20she'll%20open%20it. || I was able to solve this in the car, I felt this problem is simialr to problem 2 above)      
+5. I recall there was an old geomtry or math problems (may need to go through my photos on iPhone or wechat moments), some sort of math competition. I need to save them here so that I can build on it as time goes... Also the Russian math book Ruixian bought from Amazon  
