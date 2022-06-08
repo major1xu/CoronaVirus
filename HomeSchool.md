@@ -58,4 +58,6 @@ There are 8 balls, one is heavier than the rest 7, and there is a scale balance 
 I saw a few kids come up with answers (but it seems to me some answers are from the parents 🙂  I tried but could not come up with answer as 10 at the spot. Note we, my wife and I, when we were kids in China did similar exercise / games using the poker (draw 4 kids, instead of 10, we need to make 24). On my way home, or at home (this is how things work for me, just like how I come up with the solutions to coding at work), I have this: (7+8)x6/9=10     Note: there should be many ways / combinations to this, the one I heard at the gathering is 8x(9-7)-6=10  After that I followed GregTang on twitter, and I worked on some of the puzzles there from time to time: those are not "too hard" problems, but nonetheless interesting / educational for the kids  (I think).  
 7. Also the Russian math book Ruixian bought from Amazon: https://www.amazon.com/Moscow-Puzzles-Mathematical-Recreations-Recreational/dp/0486270785  
 8. InteGirls math competition: https://stlouis.integirls.org/ or https://www.integirls.org/
-
+9. Two interesting geometry problems: 
+https://mindyourdecisions.com/blog/2018/11/15/math-challenge-from-croatia-find-the-missing-area/  
+https://mindyourdecisions.com/blog/2018/07/26/solve-for-the-shaded-area-you-should-be-able-to-solve-this/  
