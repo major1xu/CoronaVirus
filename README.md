@@ -141,6 +141,9 @@ https://www.washingtonpost.com/business/2020/03/16/cdc-who-coronavirus-tests/
 Origin of the virus  
 https://publichealth.jhu.edu/2022/origins-of-sars-cov-2
 
+NPR事实核查：中国国产新冠疫苗有效性究竟如何？ 
+https://www.npr.org/2023/01/06/1146914365/npr?utm_campaign=storyshare&utm_source=twitter.com&utm_medium=social  (there is a lot of misconception on the efficacy of China vaccines, it seems their capability to prevent sickness is similar to the western vaccines, per the Hong Kong study)
+
 
 **About me**    
 Some more background: please note I am not a medical doctor, but I am a trained engineer and believe in science. I believe people like Bill Gates are making a difference in the access to healthcare esp. vaccine in the developing countries (or poor countries). Born and raised in China in 1970s, the economy of China is a bit like Cuba at the time, but we all got free vaccine from the village doctor(s). All of them are my mom's friends (my mom was like the leading lady in the village, someday I can explain more). The doctors will chase me to give me the vaccine shots before I attended the elementary school. I stopped running after I started the elementary school, as I was the class president and had to lead by example (no tears or cry)...
