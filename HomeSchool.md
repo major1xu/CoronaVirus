@@ -61,3 +61,5 @@ I saw a few kids come up with answers (but it seems to me some answers are from 
 9. Two interesting geometry problems: 
 https://mindyourdecisions.com/blog/2018/11/15/math-challenge-from-croatia-find-the-missing-area/  
 https://mindyourdecisions.com/blog/2018/07/26/solve-for-the-shaded-area-you-should-be-able-to-solve-this/  
+
+10. Not to confuse with problem 2: You have 5 jars of pills. Each pill weighs 10 grams, except for contaminated pills contained in one jar, where each pill weighs 9 grams. Given a scale, how could you tell which jar had the contaminated pills in just one measurement?
