@@ -63,3 +63,4 @@ https://mindyourdecisions.com/blog/2018/11/15/math-challenge-from-croatia-find-t
 https://mindyourdecisions.com/blog/2018/07/26/solve-for-the-shaded-area-you-should-be-able-to-solve-this/  
 
 10. Not to confuse with problem 2: You have 5 jars of pills. Each pill weighs 10 grams, except for contaminated pills contained in one jar, where each pill weighs 9 grams. Given a scale, how could you tell which jar had the contaminated pills in just one measurement?
+11. https://twitter.com/Math_World_/status/1619287066831114241
