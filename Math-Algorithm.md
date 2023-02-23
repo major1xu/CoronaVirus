@@ -23,4 +23,4 @@ https://mindyourdecisions.com/blog/2018/07/26/solve-for-the-shaded-area-you-shou
 
 11. https://twitter.com/Math_World_/status/1619287066831114241
 
-12. https://twitter.com/nypost/status/1627597944546271237
+12. https://twitter.com/nypost/status/1627597944546271237 - Klein read 30 pages of the book on Monday and 1/8 of the book on Tuesday. He completed the remaing 1/4 of the book on Wednesday. How many pages are there in the book?  
