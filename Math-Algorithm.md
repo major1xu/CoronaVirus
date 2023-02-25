@@ -31,6 +31,8 @@ https://mindyourdecisions.com/blog/2018/07/26/solve-for-the-shaded-area-you-shou
 
 14. Simple explaination for Calculus theorem: https://twitter.com/kareem_carr/status/1628771701889589250 
 
+15. Problem: https://twitter.com/ProfSmudge/status/1628080868605538332 My solution: https://twitter.com/stlplace/status/1628724435329884160
+
 Answers  
 ======  
 1. AB / (AB/1 + AB/2) = 1 / (1 + 1/2) = 2/3 hours
