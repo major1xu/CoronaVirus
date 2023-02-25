@@ -27,11 +27,9 @@ https://mindyourdecisions.com/blog/2018/07/26/solve-for-the-shaded-area-you-shou
 
 12. https://twitter.com/nypost/status/1627597944546271237 - Klein read 30 pages of the book on Monday and 1/8 of the book on Tuesday. He completed the remaing 1/4 of the book on Wednesday. How many pages are there in the book?  
 
-13. There are 5 bottles of tablets (drugs) and each bottle has 100 pills. We know one bottle is contaminated and the pill in that bottle is different from the other 4 bottles. We have a scale that can be used to weigh the pills and we can only use the scale once, how do we find out the bottle that has contaminated drugs (pills)?
+13. https://twitter.com/Brink_Thinker/status/1628889340599275520 
 
-14. https://twitter.com/Brink_Thinker/status/1628889340599275520 
-
-15. Simple explaination for Calculus theorem: https://twitter.com/kareem_carr/status/1628771701889589250 
+14. Simple explaination for Calculus theorem: https://twitter.com/kareem_carr/status/1628771701889589250 
 
 Answers  
 ======  
