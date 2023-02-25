@@ -1,4 +1,5 @@
-math / algorithm problems
+Math / algorithm problems
+========================
 
 1. I rememeber this problem as it was the middle school entrance exam when I graduating from 5th grade in Zhenhai County, Zhejiang Province. This is the last problem on the Math test and I believe very few kids solved it: I did not solved it during the exam either. Here it goes... It takes 1 hour from Peter to walk from point A to point B; it takes Mike 2 hours to walk from point B to A. If they start at the same time, Peter from point A walking toward point B, Mike started at point B walking toward A. How long will it take before they meet (assume point A to B is a straight line). I will put the answer in the end.  
 
@@ -35,7 +36,7 @@ Answers
 
 Other resources  
 ======  
-1. Also the Russian math book Ruixian bought from Amazon: https://www.amazon.com/Moscow-Puzzles-Mathematical-Recreations-Recreational/dp/0486270785
+1. The Moscow Puzzles: 359 Mathematical Recreations (Dover Brain Games: Math Puzzles) Amazon: [https://www.amazon.com/Moscow-Puzzles-Mathematical-Recreations-Recreational/dp/0486270785](https://www.amazon.com/Moscow-Puzzles-Mathematical-Recreations-Recreational/dp/0486270785)
 
 2. InteGirls math competition: https://stlouis.integirls.org/ or https://www.integirls.org/  
 
