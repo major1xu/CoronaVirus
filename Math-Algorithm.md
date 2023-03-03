@@ -30,6 +30,8 @@ Math / algorithm problems
 
 15. Problem: https://twitter.com/ProfSmudge/status/1628080868605538332 My solution: https://twitter.com/stlplace/status/1628724435329884160
 
+17. You know the rules and the game. Combine 4, 4, 4, 5 to make 27. Simple arithmetic only - https://twitter.com/pragprog/status/1631746267843039234
+
 Answers  
 ======  
 1. AB / (AB/1 + AB/2) = 1 / (1 + 1/2) = 2/3 hours
